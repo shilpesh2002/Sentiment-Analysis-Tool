@@ -43,6 +43,13 @@ sentiment-analysis-tool/
 │── README.md               # Project documentation
 
 # 🔮 Future Enhancements
+
 🔹 Implement deep learning models for better sentiment accuracy
 🔹 Deploy as a web application on Streamlit Cloud
 🔹 Store and analyze sentiment trends over time
+
+# 📫 Connect
+🚀 Always open to collaborations and improvements!
+
+**LinkedIn:** https://www.linkedin.com/in/shilpesh-dodake-104861326/      
+**Github:** https://github.com/shilpesh2002    
