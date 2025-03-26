@@ -2,6 +2,8 @@
 A real-time text sentiment analysis tool using **VADER Sentiment Analysis** and **Streamlit**. This project analyzes the sentiment of a given text and categorizes it as **Positive 😊, Negative 😞, or Neutral 😐**.
 
 ---
+![Image Alt](https://github.com/shilpesh2002/Sentiment-Analysis-Tool/blob/ed88927d145b94194a7b2b63b74dff015decf97c/UI2.png)
+
 
 ## 📌 Features  
 ✅ Real-time text sentiment analysis  
@@ -54,4 +56,3 @@ sentiment-analysis-tool/
 **LinkedIn:** https://www.linkedin.com/in/shilpesh-dodake-104861326/      
 **Github:** https://github.com/shilpesh2002    
 
-![Image Alt](https://github.com/shilpesh2002/Sentiment-Analysis-Tool/blob/ed88927d145b94194a7b2b63b74dff015decf97c/UI2.png)
