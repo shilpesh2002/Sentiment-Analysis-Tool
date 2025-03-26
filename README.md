@@ -35,20 +35,20 @@ pip install -r requirements.txt
 streamlit run app.py
 Now, open http://localhost:8501/ in your browser.
 
-# 📁 Project Structure
+## 📁 Project Structure
 
 sentiment-analysis-tool/
 │── app.py                  # Main Streamlit app
 │── requirements.txt        # Dependencies
 │── README.md               # Project documentation
 
-# 🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 🔹 Implement deep learning models for better sentiment accuracy
 🔹 Deploy as a web application on Streamlit Cloud
 🔹 Store and analyze sentiment trends over time
 
-# 📫 Connect
+## 📫 Connect
 🚀 Always open to collaborations and improvements!
 
 **LinkedIn:** https://www.linkedin.com/in/shilpesh-dodake-104861326/      
